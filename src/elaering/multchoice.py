@@ -1,3 +1,6 @@
+# Credit: https://github.com/jupyter-widgets/ipywidgets/issues/2487#issuecomment-510721436
+
+
 import ipywidgets as widgets
 from IPython.display import Image, display, clear_output
 
